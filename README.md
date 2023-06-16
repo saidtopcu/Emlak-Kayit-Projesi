@@ -1,6 +1,6 @@
 # Emlak-Kayit-Projesi
 
-Bu proje, emlakçıların müşteri kayıtlarını tutmalarını sağlayan basit bir masaüstü uygulamasıdır. Uygulama, kullanıcıların müşteri bilgilerini girerek kaydetmelerine ve daha sonra bu kayıtları görüntülemelerine olanak tanır. Ayrıca, kayıtlar arasında arama yapabilme özelliği bulunmaktadır.
+Bu proje, emlakçıların müşteri kayıtlarını tutmalarını sağlayan basit bir masaüstü uygulamasıdır. Uygulama, kullanıcıların müşteri bilgilerini girerek kaydetmelerine ve daha sonra bu kayıtları görüntülemelerine olanak tanır. Ayrıca, kayıtlar arasında arama yapabilme özelliği bulunmaktadır. Gorsel Programlama 2 dersi final odevi icin hazirlanmistir.
 
 ## Özellikler
 
